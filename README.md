@@ -1,2 +1,2 @@
 #Demo-Repo
-Welcome to the GitHUb
+Welcome to the GitHUb!
